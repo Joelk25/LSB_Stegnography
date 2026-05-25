@@ -2,7 +2,7 @@
   Date: 15/12/2025
   Description: Stegnography project
 
-  Sample input: ./a.out -e beautiful.bmpa secret.txt
+  Sample input: ./a.out -e beautiful.bmp secret.txt
   Sample output: 
                     <----------ENCODING---------->
 
